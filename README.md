@@ -1,7 +1,7 @@
 # Crestron NVX
 
 ## Overview
-This project was developed as a part of a technical quest fot the interview process. The purpose of the project is to create a C# application that interacts with Crestron NVX devices, providing authentication, device data retrieval and session management.
+This project was developed as I wanted to explore the world of IoT. The purpose of the project is to create a C# application that interacts with Crestron NVX devices, providing authentication, device data retrieval and session management.
 
 ### Key Features
 - **Authentication:** Interaction with Crestron NVX devices to authenticate users.
